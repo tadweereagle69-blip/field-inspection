@@ -1,5 +1,5 @@
 {
-  "name": "ADPHC Field Inspection - Local Only",
+  "name": "ADPHC Field Inspection",
   "short_name": "Field Inspection",
   "start_url": "./index.html",
   "scope": "./",
