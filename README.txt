@@ -1,1 +1,0 @@
-Field Inspection System v12 - GitHub Pages package. Upload the contents to the repository root.
